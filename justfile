@@ -11,19 +11,19 @@ clean: clean_pdf clean_html
 
 # Clean up the pdfs
 clean_pdf:
-    rm -f *.pdf
+    rm -f drafts/*.pdf
 
 # Clean up the html
 clean_html:
-    rm -f *.html
+    rm -f drafts/*.html
 
 # Build the pdfs for the drafts
 pdf:
-    for f in *draft.md; do pandoc $f -o ${f/md/pdf} --ascii; done;
+    for f in drafts/*.md; do pandoc $f -o ${f/md/pdf} --ascii; done;
 
 # Build the html for the drafts
 html:
-    for f in *draft.md; do pandoc $f -o ${f/md/html} --ascii; done;
+    for f in drafts/*.md; do pandoc $f -o ${f/md/html} --ascii; done;
 
 # Build all
 all: pdf html
