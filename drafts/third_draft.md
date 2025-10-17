@@ -34,7 +34,7 @@ header-includes:
 -->
 
 It would be really hard for me to overstate how happy I am to be here.
-At this wedding, I'm getting to see one of my oldest friends marry someone he truly, deeply loves.
+At this wedding, I'm getting to see one of my oldest friends [ marry, enter the next phase of life ] someone he truly, deeply loves.
 Chris and I have known each other for a long time.
 We met in 4th grade English class.
 I remember the teacher introducing him, "Hey class this is Chris Gerspacher. He is new to our school. He is from Florida."
@@ -47,7 +47,6 @@ Our class was reading Gary Paulsen's _Hatchet_: a story about a young man maroon
 Here I wish I could tell you that we bonded over the strong themes of self-reliance and deep reverence for nature.
 But it wasn't.
 No, what spawned nearly two decades of friendship between us was how stupid we thought the main character was for actually talking to a fire that he built.
-
 
 <!-- <Optional Joke> -->
 <!--
@@ -79,16 +78,15 @@ It's actually a very moving part of the book if you ever check it out.
 
 <!-- TODO(ajone239): add a transition -->
 That said, Chris and I have grown up quite a bit from mocking the books that teachers forced us to read.
-Over those years where we did out best to not grow up and failed,
-I've picked up a few things on Chris over the years.
+Over the years, we did out best to not grow up, but we failed.
+In that fight, I've picked up a few things on Chris.
 
 <!-- Chris works hard. -->
 Firstly, Chris knows the value of hard work.
 Well, either that, or he doesn't know how to do anything but work hard.
 He is diligent.
 He is meticulous.
-Chris and I worked together; he got me my first job, actually.
-Never in work or school did I see him shy away from what it took to meet his goals.
+Never in school or our first job together did I see him shy away from what it took to meet his goals.
 
 <!-- Chris is a good friend -->
 Secondly, Chris is a great friend.
@@ -104,7 +102,7 @@ But, what these stories illuminate is a constant, deep running friendship that h
 A friendship that you struggle to put words too, but you know exactly what it is and where it is.
 I wish I could say that this friendship is unique to Chris and I.
 However, everyone who knows Chris knows this in some capacity.
-He seems to inspire a deep connection in all the people he meets.
+His company seems to inspire a deep connection in all the people he meets.
 
 <!-- let this ride for a beat -->
 
@@ -120,17 +118,17 @@ While I haven't know Tori for seventeen years, I have known her for the better p
 The whole time I have known her, she has loved Chris.
 More than that, she really appreciates him for who he is.
 Tori is one of the first examples I remember of someone _really seeing_ Chris.
-She listens with a patient joy when he is ranting about something probably car related.
-When he is hard at work, she appreciates not only the tire he's changing or sink he's fixing but his attention to detail.
+When he is ranting about something _probably car related_, she listens with the patient joy enjoying your loved one's passion.
+When he is hard at work, she appreciates not only the tire he's changing or sink he's fixing but his love for the craft.
 
 <!-- man's best friend -->
-In a deep way she loves him for all his deep traits.
+She loves him for all his best traits.
 She loves him for:
 - his fervor
 - his unconditional love
 - his loyalty
 - his companionship
-Chris really is a man's best friend.
+For my money, Chris really is a man's best friend.
 This is why I knew that they would do just fine when I learned that Tori was a professional dog sitter.
 
 <!--
@@ -155,5 +153,4 @@ Far and away from that, these are two people who care for each other.
 Watch how they look at one another.
 When Chris looks at Tori, she is the only thing that he sees.
 When Tori looks at Chris, she sees him -- all of him -- for all he's worth.
-These two love each other.
-I think they have great times ahead of them.
+These two love each other, and I think they have great times ahead of them.
